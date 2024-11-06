@@ -1,4 +1,4 @@
-module github.com/vmware-tanzu-labs/educates-training-platform/client-programs
+module github.com/educates/educates-training-platform/client-programs
 
 go 1.22.5
 
